@@ -1,2 +1,0 @@
-# Intro
-Beginner to Senior

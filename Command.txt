@@ -1,0 +1,6 @@
+git init
+git add [file name]
+git commit -m "[comment]"
+git branch -M main
+git remote add origin [Address]
+git push -u origin main
